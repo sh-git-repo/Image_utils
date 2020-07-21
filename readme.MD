@@ -1,4 +1,4 @@
-# Simple yet handy programs for images.
+# Simple yet handy utilities for images.
 
 -- read __requirements.txt__ for dependencies --
 
