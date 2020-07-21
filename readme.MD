@@ -12,6 +12,7 @@ a given directory and can be saved in the same or a different directory.
 see help(Resizer) for more info
 
 '''
+
     >>> from image_utils import Resizer
     
     >>> test_obj = Resizer(from_path, to_path)
