@@ -2,8 +2,8 @@
 
 -- read __requirements.txt__ for dependencies --
 
-#### 1. image_utils package
-Package contains Resizer, Cropper* and Filter*
+#### 1. image_utils
+This package contains Resizer, Cropper* and Filter*
 
 ###### Resizer
 A Resizer class that can be used to resize all pictures of same the type from
