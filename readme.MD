@@ -14,11 +14,8 @@ see help(Resizer) for more info
 '''
 
     >>> from image_utils import Resizer
-    
     >>> test_obj = Resizer(from_path, to_path)
-    
     >>> test_obj.resize("png")
-    
     >>> Successfully resized 3 png image/images.
 '''
 
