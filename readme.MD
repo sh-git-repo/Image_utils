@@ -5,7 +5,7 @@
 #### 1. image_utils
 This package contains Resizer, Cropper* and Filter*
 
-###### Resizer
+##### Resizer
 A Resizer class that can be used to resize all pictures of same the type from
 a given directory and can be saved in the same or a different directory.
 
